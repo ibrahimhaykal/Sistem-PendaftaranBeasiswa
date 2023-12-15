@@ -1,0 +1,13 @@
+/* Gaya CSS untuk carousel caption dengan latar belakang hitam */
+.carousel-caption-bg {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 15px;
+  border-radius: 5px;
+}
+
+/* Gaya CSS untuk teks di dalam carousel caption */
+.carousel-caption-bg h3,
+.carousel-caption-bg p {
+  color: rgb(255, 255, 255);
+  margin: 0;
+}
